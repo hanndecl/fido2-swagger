@@ -1,0 +1,1 @@
+curl -o fido2-swagger.yaml https://raw.githubusercontent.com/apowers313/fido2-swagger/33d51bdd3ca04a84d26fcb58baec2bc17cee93da/swagger.yaml 
